@@ -1,0 +1,40 @@
+body {
+    font-family: 'Nanum Myeongjo', serif;
+    background: url("../images/Train-Snow-Winter-Painting-Canvas-Smoke.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.panel-heading {
+    padding: .5rem;
+}
+
+.form-group {
+    text-align: center;
+    padding: .08rem;
+    margin-top: 1rem;
+}
+
+td {
+    padding: .5rem;
+    color: rgb(233, 233, 217);
+    font-weight: bold;
+    font-size: 1.3rem;
+
+}
+
+th {
+    
+    background-color: rgb(104, 104, 104);
+    color: white;
+}
+
+label {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: rgb(29, 29, 29);
+
+}
+
